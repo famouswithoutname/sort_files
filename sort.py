@@ -186,5 +186,5 @@ def sortfiles(way_to_folder):
 way = input('Please write the path to folder: ')
 
 
-print(sortfiles(way))
+print(sortfiles(way)) #
 
